@@ -12,7 +12,7 @@ export const BioContext = createContext();
   const [showData,setShowData] =useState(null)
 
   const miName="Hari"
-  const hrsName="Harsha"
+  
   const myAge=30
   const myFAge=32
 
